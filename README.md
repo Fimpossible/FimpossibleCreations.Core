@@ -5,7 +5,9 @@ Package "Fimpossible Creations Core"
 Version 1.0.0
 
 Made by FImpossible Creations - Filip Moeglich
+
 http://www.fimpossiblecreations.pl
+
 FImpossibleGames@Gmail.com
 
 __________________________________________________________________________________________
