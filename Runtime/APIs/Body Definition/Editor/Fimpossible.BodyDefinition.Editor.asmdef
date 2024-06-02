@@ -1,0 +1,18 @@
+{
+    "name": "Fimpossible.BodyDefinition.Editor",
+    "references": [
+        "GUID:c6c438664d328c44898a031e9f5cff9c",
+        "GUID:9872ee9f71114e240b22b922bc9df768"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

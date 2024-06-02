@@ -1,0 +1,15 @@
+{
+    "name": "Fimpossible.BodyDefinition",
+    "references": [
+        "GUID:9872ee9f71114e240b22b922bc9df768"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
